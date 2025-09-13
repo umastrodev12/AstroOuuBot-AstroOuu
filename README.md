@@ -1,7 +1,7 @@
 # AstroOuu Bot
 
 Um bot de Discord open source, com comandos de **mute, ban** e funcionalidades seguras para gerenciar servidores.
-### Recursos dele em: https://o-menino-front-end.github.io/AstroOuu-Bot-Site
+ Recursos dele em: https://o-menino-front-end.github.io/AstroOuu-Bot-Site
 
 O projeto é **open source** e licenciado sob **MIT License**.  
 ---------------------------
