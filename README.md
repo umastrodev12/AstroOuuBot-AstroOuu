@@ -3,6 +3,8 @@
 Um bot de Discord open source, com comandos de **mute, ban** e funcionalidades seguras para gerenciar servidores.  
 
 O projeto é **open source** e licenciado sob **MIT License**.  
+---------------------------
+O Bot foi feito para fins educativos e aprendizado. Não reposte falando que o código é seu.
 
 ## Funcionalidades
 - Mute automático e manual de membros
