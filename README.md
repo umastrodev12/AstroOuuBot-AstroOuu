@@ -1,2 +1,23 @@
-# AstroOuuBot-AstroOuu
-AstroOuu Bot é meu bot muito Top:D :3
+# AstroOuu Bot
+
+Um bot de Discord open source, com comandos de **mute, ban** e funcionalidades seguras para gerenciar servidores.  
+
+O projeto é **open source** e licenciado sob **MIT License**.  
+
+## Funcionalidades
+- Mute automático e manual de membros
+- Ban temporário de membros
+- Comandos de ping
+- Estrutura pronta para adicionar novas funcionalidades
+
+## Linguagens e tecnologias
+- **Python 3.11+**
+- **discord.py** (API do Discord)
+- **asyncio** para tarefas assíncronas
+
+## Licença
+Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+**Nota:** Este repositório é seguro para GitHub. Nenhum token ou dados sensíveis estão incluídos. Para rodar o bot localmente, crie um arquivo `run_local.py` com seu token pessoal.
