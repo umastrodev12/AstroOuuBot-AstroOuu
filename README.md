@@ -25,3 +25,13 @@ Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE]
 ---
 
 **Nota:** Este repositório é seguro para GitHub. Nenhum token ou dados sensíveis estão incluídos. Para rodar o bot localmente, crie um arquivo `run_local.py` com seu token pessoal.
+
+---
+
+## Equipe & Apoio
+| Nome                | GitHub        |
+|---------------------|-------------------------|
+|Eduardo Ribeiro      | [EduardoRibeiro](https://github.com/EduardoRibeiroXavier) |
+|Dreams Arts          | [DreamsArt](https://github.com/DreamsArts) |
+|Um Astro Dev 2       | [Astro2](https://github.com/O-Menino-Front-End) |
+|AstroOuu Bot         | [AstroOuuBot](https://github.com/AstroOuu-Bot) |
