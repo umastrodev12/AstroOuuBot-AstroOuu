@@ -7,6 +7,7 @@ Apoio: [DreamsArts](https://github.com/DreamsArts) / [Eduardo Ribeiro Xavier](ht
 O projeto é **open source** e licenciado sob **MIT License**.  
 ---------------------------
 O Bot foi feito para fins educativos e aprendizado. Não reposte falando que o código é seu.
+Aceitamos qualquer ajuda no código.
 
 ## Funcionalidades
 - Mute automático e manual de membros
