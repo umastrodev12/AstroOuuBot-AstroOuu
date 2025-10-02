@@ -22,6 +22,7 @@ Aceitamos qualquer ajuda no código.
 
 ## Licença
 Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+E Também não é permitido alterar qualquer coisa neste projeto
 
 ---
 
