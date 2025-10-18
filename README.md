@@ -1,8 +1,7 @@
 # AstroOuu Bot
 
 Um bot de Discord open source, com comandos de **mute, ban** e funcionalidades seguras para gerenciar servidores.Feito por: Um Astro Dev |
-Apoio: [DreamsArts](https://github.com/DreamsArts) / [Eduardo Ribeiro Xavier](https://github.com/EduardoRibeiroXavier) ----
- [Clique Aqui para saber mais](https://o-menino-front-end.github.io/AstroOuu-Bot-Site)
+Apoio: [DreamsArts](https://github.com/DreamsArts) / [Eduardo Ribeiro Xavier](https://github.com/EduardoRibeiroXavier)
 
 O projeto é **open source** e licenciado sob **MIT License**.  
 ---------------------------
